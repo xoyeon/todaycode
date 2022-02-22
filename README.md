@@ -22,3 +22,6 @@
 ### 온오프라인 실시간 강의
 - 서울대학교 평생교육원 실전과정 예제로 풀어보는 데이터 분석
 - DT분야_파이썬을 활용한 데이터 분석 - 한국능률협회
+
+### 공공데이터 분석
+- [서울시 자전거 따릉이 대여 분석](https://github.com/corazzon/OpenDataWrangling/tree/master/seoul-bike)
